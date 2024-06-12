@@ -45,7 +45,6 @@ def main():
 
     coach = Coach(opts)
     coach.train ()
-    # coach.train()
 
 
 if __name__ == "__main__":
